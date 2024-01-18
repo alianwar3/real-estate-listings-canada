@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../static/home.png">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/styles.css') }}">
+    <title>Real Estate</title>
+</head>
+    <body>
+
+        <!-- Navbar -->
+        <div class="topnav">
+            <a href="{{ url_for('about_project')}}">About Project</a>
+            <a href="{{ url_for('interactive_map')}}">Interactive Map</a>
+            <a href="{{ url_for('table_view')}}">Table View</a>
+        </div>
+
+        <!-- Content -->
+        <div class="body-1">
+
+            <h1>Details:</h1>
+                <p>
+                    On July 1, 2023, Ontario's population reached 15,608,369. Over the 12-months, the provincial population
+                    grew by 463,363 residents, constituting an annual 3.1% increase. This application is intended for home-
+                    buyers, retail analysts and interested parties to look at the housing prices and localities of for sale
+                    homes in Ontario across all major cities via listing statistics and an interactive map. All data presented
+                    is processed >6 hours.
+                </p>
+
+            <h1>AWS Architecture:</h1>
+            <div class="architecture-diagram">
+                <img src="{{ url_for('static', filename='aws-architecture.svg') }}" alt="AWS Architecture">
+            </div>
+
+            <br>
+
+            <h1>Use Cases:</h1>
+                <ul>
+                    <li>Analyze the geolocation of listings in Ontario with listing data updated on a > 6 hr basis.</li>
+                    <li>Assess address, price, and listing of home relative to locality.</li>
+                    <li>Examine housing metric for specific locality including lowest (listings >$100,000 in value), highest and average listing prices.</li>
+                    <li>The source system has the largest repositories in Ontario of house listings. This application allows you to see listings data of localities in geospatial and tabular formats.</li>
+                </ul>
+
+            <h1>Limitations:</h1>
+                <ul>
+                    <li>Incorrect geospatial labelling of data could result in inaccurate readings of data. For example, a listing located in Mississauga could incorrectly be associated with a listing in Brampton.</li>
+                    <li>Fluctuation of listings data, dependent on how many listing data is pulled from source system.</li>
+                    <li>Possibility of missing values (i.e., address, postal codes, prices, etc.).</li>
+                    <li>Listing prices are not fixed as prices may be subject to bidding.</li>
+                    <li>Listing may be expired.</li>
+                </ul>
+
+            <h1>Developer:</h1>
+                <ul>
+                    <li>Name: Ali Anwar</li>
+                    <li>Github: <a href="https://github.com/alianwar3">https://github.com/alianwar3</a></li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/ali-anwar3/">https://www.linkedin.com/in/ali-anwar3/</a></li>
+                </ul>
+
+        </div>
+
+    </body>
+
+</html>
