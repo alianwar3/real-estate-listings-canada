@@ -14,6 +14,7 @@
   </br>
   Project: <a href="https://real-estate-listings-ontario-9fcb0b076278.herokuapp.com/" target="_blank">https://real-estate-listings-ontario-9fcb0b076278.herokuapp.com/</a>
   </br>
+  </br>
   Please note: this application is optimized for web view and may not fit on a mobile screen.
 </p>
 
