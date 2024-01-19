@@ -17,4 +17,6 @@
   Please note: this application is optimized for web view and may not fit on a mobile screen.
 </p>
 
+<h2>Real Estate Listings Canada</h2>
+
 ![Alt Text](https://github.com/alianwar3/real-estate-listings-canada/blob/master/static/aws-architecture.svg)
