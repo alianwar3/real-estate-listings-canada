@@ -7,9 +7,9 @@ This web application allows you to explore statistics on listings by locality in
 </br>
 Below, you will find the ETL architecture of the data pipeline, a demo of the application, and a link to the project.
 </br>
-Demo: <a href="https://lnkd.in/ejaKuuHu">https://lnkd.in/ejaKuuHu
+Demo: <a href="https://lnkd.in/ejaKuuHu">https://lnkd.in/ejaKuuHu</a>
 </br>
-Project: <a href="https://lnkd.in/epM2Nqzq">https://lnkd.in/epM2Nqzq
+Project: <a href="https://lnkd.in/epM2Nqzq">https://lnkd.in/epM2Nqzq</a>
 </p>
 
 </br>
