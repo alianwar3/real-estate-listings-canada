@@ -18,4 +18,4 @@ Project: <a href="https://real-estate-listings-ontario-9fcb0b076278.herokuapp.co
 Please note: this application is optimized for web view and may not fit on a mobile screen.
 
 <h2>AWS Architecture</h2>
-![Alt Text](https://github.com/alianwar3/real-estate-listings-canada/blob/master/static/aws-architecture.svg)
+[Alt Text](https://github.com/alianwar3/real-estate-listings-canada/blob/master/static/aws-architecture.svg)
