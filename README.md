@@ -9,7 +9,7 @@ Below, you will find the ETL architecture of the data pipeline, a demo of the ap
 </br>
 Demo: <a href="https://lnkd.in/ejaKuuHu">https://lnkd.in/ejaKuuHu
 </br>
-Project: https://lnkd.in/epM2Nqzq
+Project: <a href="https://lnkd.in/epM2Nqzq">https://lnkd.in/epM2Nqzq
 </p>
 
 </br>
