@@ -7,9 +7,9 @@ This web application allows you to explore statistics on listings by locality in
 </br>
 Below, you will find the ETL architecture of the data pipeline, a demo of the application, and a link to the project.
 </br>
-Demo: <a href="https://lnkd.in/ejaKuuHu">https://lnkd.in/ejaKuuHu</a>
+Demo: <a href="https://www.youtube.com/watch?v=uNg9ZOaDk0c">https://www.youtube.com/watch?v=uNg9ZOaDk0c</a>
 </br>
-Project: <a href="https://lnkd.in/epM2Nqzq">https://lnkd.in/epM2Nqzq</a>
+Project: <a href="https://real-estate-listings-ontario-9fcb0b076278.herokuapp.com/">https://real-estate-listings-ontario-9fcb0b076278.herokuapp.com/</a>
 </p>
 
 </br>
